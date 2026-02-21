@@ -139,5 +139,3 @@ Give it a ⭐ on GitHub!
 
 
 
-Help you write a strong portfolio explanation for interviews 🚀
-
