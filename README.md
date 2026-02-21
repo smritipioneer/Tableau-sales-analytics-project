@@ -110,10 +110,10 @@ Forecast indicates steady growth trend in upcoming quarters.
 
 
 Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1648" height="1005" alt="Tableau sales analytics dashboard print" src="https://github.com/user-attachments/assets/d620b9ba-f32a-4af9-a80a-e4cc28612926" />
 
-Tableau Public Link
-(Add your Tableau Public link here)
+
+
 
 How to Use
 
